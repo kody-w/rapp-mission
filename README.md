@@ -48,6 +48,10 @@ underneath: the person carries their AI with them and never loses command of it.
    account. It is never required, never suggested first, and a person can go their whole life
    without knowing it exists.
 
+## On a phone or in a browser
+
+https://kody-w.github.io/vbrainstem/: the same file, the same behavior, with no native tool at all.
+
 ## Get your own
 
 https://github.com/kody-w/vbrainstem. Give your AI one link, answer a few questions, done.

@@ -107,6 +107,12 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
 - Using RAPP/1, the person's data can grow on the device in local-first mode without being
   injected into the file; when they want it to travel, they tell their native AI to inject it,
   and the full Brainstem moves with them.
+- 2026-09-04, evening: the browser version is live at https://kody-w.github.io/vbrainstem/. One
+  page, no server of ours, that answers the kernel's routes and envelopes behind an in-page
+  dispatcher, rebuilds persona, tools, and memory from the person's file every turn, runs a
+  tool's real code in the browser, appends memory into the file, exports the exact file, and
+  forgets everything on one tap. Gate-checked with a real sign-in: the token exchange, two real
+  completions, and a real tool run, replying to the fictional Ada by name.
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

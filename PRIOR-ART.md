@@ -124,6 +124,9 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
   Dream Catcher cannot merge them, the contradicting frames from both sides are sealed together
   into a loaf, kept as evidence, and baked only by the person's ruling into one successor line
   both dimensions accept. Nothing is deleted; nothing is baked without the person.
+- All of this machinery may run through the native AI's own capabilities, however it wants, or
+  through the virtual Brainstem machinery under the current DOGG skill and RAPP/1. Native first;
+  the same file and the same shapes either way.
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

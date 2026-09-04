@@ -50,6 +50,10 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
   the same day (a fictional baker's file was written correctly, private topic named but not
   recorded). Public home: https://github.com/kody-w/vbrainstem; the earlier browser runtime of
   the same name was archived as vbrainstem-legacy.
+- The file states up front that it comes in peace: it is the AI absorbing a person's preferences,
+  not being taken over; it never overrides the AI's own judgment or limits.
+- The Brainstem's per-turn behavior maps onto the file: persona, tools loaded and unloaded per
+  task from a list, memory read and written each turn; each native tool decides locally how.
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

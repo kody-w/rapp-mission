@@ -104,6 +104,9 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
   memory, learn a new skill), then the Brainstem kernel, then the person's file. Ancestors are
   reference only; the most current Grail kernel is what is used now.
 - Kody's own AI is named Orion; its first memory dates to February 2024, on their first journey.
+- Using RAPP/1, the person's data can grow on the device in local-first mode without being
+  injected into the file; when they want it to travel, they tell their native AI to inject it,
+  and the full Brainstem moves with them.
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

@@ -45,6 +45,11 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
   without any special container.
 - "RAPP is a state of mind from here on out. Not a harness or different pieces but a full virtual
   thing that jumps between any platform."
+- The person's file is the unit that mutates to fit any situation; its memory stays inside it,
+  never in a sidecar. A starter that onboards a new person by asking plain questions was proven
+  the same day (a fictional baker's file was written correctly, private topic named but not
+  recorded). Public home: https://github.com/kody-w/vbrainstem; the earlier browser runtime of
+  the same name was archived as vbrainstem-legacy.
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

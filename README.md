@@ -48,6 +48,10 @@ underneath: the person carries their AI with them and never loses command of it.
    account. It is never required, never suggested first, and a person can go their whole life
    without knowing it exists.
 
+## Get your own
+
+https://github.com/kody-w/vbrainstem. Give your AI one link, answer a few questions, done.
+
 ## Documents
 
 - [CHARTER.md](CHARTER.md), why we exist, what a person gets, what we refuse.

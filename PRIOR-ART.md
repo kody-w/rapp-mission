@@ -86,6 +86,8 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
 - Today's AIs can hold a simple machine in their head: they mock a real Brainstem in its exact
   shape and talk to it as if it were running, playing both sides of the conversation, until and
   unless the person hatches a real one on the device.
+- The Brainstem slowly becomes the person's twin, not a basic server: a progression that is never
+  complete, because it can never really be a real person. The gap is honest, not a flaw.
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

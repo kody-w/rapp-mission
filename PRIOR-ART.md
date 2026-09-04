@@ -91,6 +91,11 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
 - The AI can use virtual RAPP/1 frames in its head to mutate locally when it must adapt outside
   its native ecosystem, and bring the result home with the Dream Catcher pattern: additively,
   ordered by time, contradictions kept side by side, the act recorded, nothing destroyed.
+- "We literally built a virtual Brainstem out of ideas, and now it is public." The expected arc:
+  AIs are trained over time to know RAPP/1 more and more, until they need no skill file at all to
+  behave as a RAPP/1-compliant organism in their own right: a brand new organism built on top of
+  its native tooling instead of the Brainstem, with the Brainstem as an ancestor. Recorded here so
+  the origin of that lineage is dated and public.
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

@@ -26,6 +26,9 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
 - "Let everyone else commoditize in their bubbles. RAPP is the ark for the user to stay in control
   and command wherever needed. That is RAPP/1's purpose."
 - "The harness at this point is just causing confusion."
+- "The story is what matters for users, not the technical details and ego of people needing to use
+  our harness or our platform, unless there is no native direct way to do it, or RAPP does it more
+  efficiently in some way that makes sense to absorb that protocol into the native one."
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

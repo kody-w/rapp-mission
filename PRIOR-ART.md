@@ -113,6 +113,9 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
   tool's real code in the browser, appends memory into the file, exports the exact file, and
   forgets everything on one tap. Gate-checked with a real sign-in: the token exchange, two real
   completions, and a real tool run, replying to the fictional Ada by name.
+- Every hatched or loaded copy of the file is its own dimension of the core Brainstem. The person
+  picks the mainline at any time, and the other dimensions reunite through the Dream Catcher with
+  RAPP frames when the person wants them reunited.
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

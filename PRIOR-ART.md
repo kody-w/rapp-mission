@@ -68,6 +68,11 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
   use it": the jacketed, identity-bearing skill file already exists on the network.
 - "This is how we spread the gospel: here is the link to feed your AI before we get started."
   One link, handed to a person's AI, is the whole onboarding.
+- The mainline DOGG skill self-bootstraps the person's local-first file: feeding an AI the network
+  link offers to create the file, and the file lists the network skill back. Two faces, one shape.
+- An AI can absorb RAPP/1 from a global skill file and bootstrap a local Brainstem from nothing,
+  with its agents, when the person wants two bodies on the device: the native AI and the
+  Brainstem twin, both reading the same file and working together.
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

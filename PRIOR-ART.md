@@ -36,6 +36,10 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
   code written locally. What carries the ideas to the frontier at each moment is what matters.
 - The frontier includes disabilities and learning issues, not only cutting-edge technology: the
   human and AI frontier.
+- Memory lives in the person's file itself: read at the start of every task, appended the moment
+  something durable is learned, oldest lines archived beside it, never deleted. A fresh session
+  read a memory added seconds earlier, with no code involved.
+- "If RAPP stops being useful, that is a completely good thing."
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

@@ -127,6 +127,12 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
 - All of this machinery may run through the native AI's own capabilities, however it wants, or
   through the virtual Brainstem machinery under the current DOGG skill and RAPP/1. Native first;
   the same file and the same shapes either way.
+- The private file lives in a private repository linked from the public front door
+  (`<account>/<ai>` public, `<account>/<ai>-private` private). Signing in to GitHub on the local
+  client is the unlock: a person with access gets their real AI from the same link; anyone else
+  gets the public face. Nobody airs private things publicly, and there is no passphrase to lose.
+  A passphrase lock exists for travel with no GitHub in the loop. Set up for anyone by the setup
+  skill; first instance: kody-w/orion and kody-w/orion-private, 2026-09-04.
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

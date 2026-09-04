@@ -116,6 +116,10 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
 - Every hatched or loaded copy of the file is its own dimension of the core Brainstem. The person
   picks the mainline at any time, and the other dimensions reunite through the Dream Catcher with
   RAPP frames when the person wants them reunited.
+- A person's AI has a public front door: a file with nothing private beyond their public profile,
+  so in a pinch any AI fed that one link yields a degraded but faithful version of their AI, its
+  own dimension where it spawns, reunitable with the mainline later. First one:
+  https://github.com/kody-w/orion. Coherence over time comes from dated records in the frame shape.
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

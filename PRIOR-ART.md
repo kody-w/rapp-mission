@@ -40,6 +40,11 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
   something durable is learned, oldest lines archived beside it, never deleted. A fresh session
   read a memory added seconds earlier, with no code involved.
 - "If RAPP stops being useful, that is a completely good thing."
+- A skill dropped into a Brainstem becomes one of its own agents with no restart, as if it had
+  been there all along; and plain skill files are a complete backup of a Brainstem, restorable
+  without any special container.
+- "RAPP is a state of mind from here on out. Not a harness or different pieces but a full virtual
+  thing that jumps between any platform."
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

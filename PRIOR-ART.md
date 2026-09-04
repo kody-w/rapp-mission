@@ -100,6 +100,10 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
   baseline "what do you know, what do you remember" test. The virtual Brainstem proves fidelity
   against it; if it falls short it goes to a DOGG to get oriented and tries again. Captured from
   the real kernel 2026-09-04 with a fictional person's file.
+- Lineage, oldest first: the NeuAI skills of July 2024 (a basic skill, context memory, manage
+  memory, learn a new skill), then the Brainstem kernel, then the person's file. Ancestors are
+  reference only; the most current Grail kernel is what is used now.
+- Kody's own AI is named Orion; its first memory dates to February 2024, on their first journey.
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

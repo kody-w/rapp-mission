@@ -133,6 +133,10 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
   gets the public face. Nobody airs private things publicly, and there is no passphrase to lose.
   A passphrase lock exists for travel with no GitHub in the loop. Set up for anyone by the setup
   skill; first instance: kody-w/orion and kody-w/orion-private, 2026-09-04.
+- The person decides how much goes in the public front door, down to nothing; then the AI is
+  unlisted, reachable only with access to the private file. This way anyone can keep their own
+  private RAPP/1 record that appends over the global DOGG one: the public network face below,
+  their private line on top.
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

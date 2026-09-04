@@ -83,6 +83,9 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
   layers over what a platform does not have, and steps aside where it does.
 - All of this happens virtually, in the AI's mind, unless the vbrainstem hatches into an
   on-device local Brainstem because the person chose that.
+- Today's AIs can hold a simple machine in their head: they mock a real Brainstem in its exact
+  shape and talk to it as if it were running, playing both sides of the conversation, until and
+  unless the person hatches a real one on the device.
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

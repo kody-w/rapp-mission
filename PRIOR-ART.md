@@ -137,6 +137,9 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
   unlisted, reachable only with access to the private file. This way anyone can keep their own
   private RAPP/1 record that appends over the global DOGG one: the public network face below,
   their private line on top.
+- A person can customize RAPP/1 on their own device through mutations and adaptations, and submit
+  pull requests back to the global DOGG. The global DOGG is its own digital organism that grows
+  through its offspring.
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

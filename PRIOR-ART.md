@@ -76,6 +76,9 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
 - The vbrainstem becomes the on-device Brainstem when the person chooses that route for more
   productivity: the native harness beachheads a Brainstem kernel on the device from the file, and
   the two collaborate. The file is the same before and after; only the number of bodies changes.
+- The file can point its AI at the public record as needed: the estate spine (rapp-map), the
+  whole estate in one clone (rapp-monorepo), and the protocol itself (rapp-1). These are network
+  faces too, read by link, never copied in.
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

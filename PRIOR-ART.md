@@ -54,6 +54,11 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
   not being taken over; it never overrides the AI's own judgment or limits.
 - The Brainstem's per-turn behavior maps onto the file: persona, tools loaded and unloaded per
   task from a list, memory read and written each turn; each native tool decides locally how.
+- "The skill file is the new cartridge, but for the whole organism, and it grows with the user."
+- The browser version is the mobile version: one page that behaves exactly like a local Brainstem
+  (same routes, same request and reply shapes, same chat feel), driven entirely by the person's
+  file, with one-tap export of that file. Its intelligence is the GitHub Copilot wire; nothing
+  of ours runs on a server.
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

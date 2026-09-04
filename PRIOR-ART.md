@@ -73,6 +73,9 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
 - An AI can absorb RAPP/1 from a global skill file and bootstrap a local Brainstem from nothing,
   with its agents, when the person wants two bodies on the device: the native AI and the
   Brainstem twin, both reading the same file and working together.
+- The vbrainstem becomes the on-device Brainstem when the person chooses that route for more
+  productivity: the native harness beachheads a Brainstem kernel on the device from the file, and
+  the two collaborate. The file is the same before and after; only the number of bodies changes.
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

@@ -63,6 +63,11 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
   ideas, dated here, not on any runtime: a virtual platform, not a digital organism, that exists
   wherever a person's file is read. One file a person owns, absorbed by any native AI, memory and
   tools inside it, reversible by deletion, the same experience everywhere.
+- The person's file (the private face they carry) names public faces the same way: a network
+  skill listed by link, fetched like any tool. "This is what RAPP has already solved and we will
+  use it": the jacketed, identity-bearing skill file already exists on the network.
+- "This is how we spread the gospel: here is the link to feed your AI before we get started."
+  One link, handed to a person's AI, is the whole onboarding.
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

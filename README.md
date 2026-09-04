@@ -23,6 +23,13 @@ knows the person the same way in Claude Code, in Copilot, on a laptop, on a phon
 whatever ships next year. A person should never have to relearn their own AI because they
 changed tools. Everything we build is judged by whether it keeps that promise.
 
+## The ark
+
+Let every platform commoditize inside its own bubble. That is fine, and it is not our fight. The
+person's file is the ark: it keeps them in control and in command of their own AI wherever they
+go, whichever bubble they happen to be standing in today. That is the purpose of the medium
+underneath: the person carries their AI with them and never loses command of it.
+
 ## The fallback ladder
 
 1. **The native platform does the work.** Claude Code, Copilot, or whatever comes next. We never

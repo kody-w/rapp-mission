@@ -23,6 +23,9 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
   file, only if everything native has failed. It is never required.
 - Every capability converts losslessly between a skill file and one Python file, so the same thing
   runs in a chat tool, on a server, or in a team's runtime without a rewrite.
+- "Let everyone else commoditize in their bubbles. RAPP is the ark for the user to stay in control
+  and command wherever needed. That is RAPP/1's purpose."
+- "The harness at this point is just causing confusion."
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

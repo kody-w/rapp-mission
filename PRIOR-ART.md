@@ -88,6 +88,9 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
   unless the person hatches a real one on the device.
 - The Brainstem slowly becomes the person's twin, not a basic server: a progression that is never
   complete, because it can never really be a real person. The gap is honest, not a flaw.
+- The AI can use virtual RAPP/1 frames in its head to mutate locally when it must adapt outside
+  its native ecosystem, and bring the result home with the Dream Catcher pattern: additively,
+  ordered by time, contradictions kept side by side, the act recorded, nothing destroyed.
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

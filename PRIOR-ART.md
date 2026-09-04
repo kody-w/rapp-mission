@@ -96,6 +96,10 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
   behave as a RAPP/1-compliant organism in their own right: a brand new organism built on top of
   its native tooling instead of the Brainstem, with the Brainstem as an ancestor. Recorded here so
   the origin of that lineage is dated and public.
+- A skill file can carry JSON: a transcript of an in-memory chat with a real Brainstem, the
+  baseline "what do you know, what do you remember" test. The virtual Brainstem proves fidelity
+  against it; if it falls short it goes to a DOGG to get oriented and tries again. Captured from
+  the real kernel 2026-09-04 with a fictional person's file.
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

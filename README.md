@@ -16,6 +16,13 @@ because it carries its own code. Nothing to install, nothing to learn, and delet
 returns the AI to exactly how it was. Underneath, one medium carries every file the same way
 across devices and AIs. It is invisible on purpose.
 
+## The first one
+
+The first such file exists as of 2026-09-04: its owner's own, loaded into Claude Code and GitHub
+Copilot CLI. Told nothing else, a fresh session in each answered what "done" means to him and
+which two worlds he keeps apart. It has its own identity, minted once. Nothing about how it is
+made shows in what the AI reads.
+
 ## The key: the same experience everywhere
 
 The whole point is consistency. The same file behaves the same way, feels the same way, and

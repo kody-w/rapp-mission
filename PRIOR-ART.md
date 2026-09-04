@@ -29,6 +29,13 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
 - "The story is what matters for users, not the technical details and ego of people needing to use
   our harness or our platform, unless there is no native direct way to do it, or RAPP does it more
   efficiently in some way that makes sense to absorb that protocol into the native one."
+- The person's file is the new organism. It has its own identity, minted once, and stays within the
+  protocol, while what a person or a native tool sees is only a plain skill file. Loading it into
+  native tooling is the crossing that makes something new.
+- A Brainstem can be simulated entirely in the AI's head from the file when one is needed, with no
+  code written locally. What carries the ideas to the frontier at each moment is what matters.
+- The frontier includes disabilities and learning issues, not only cutting-edge technology: the
+  human and AI frontier.
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

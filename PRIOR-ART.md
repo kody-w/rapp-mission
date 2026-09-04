@@ -140,6 +140,10 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
 - A person can customize RAPP/1 on their own device through mutations and adaptations, and submit
   pull requests back to the global DOGG. The global DOGG is its own digital organism that grows
   through its offspring.
+- "RAPP/1 is the proto-ancestor of ALL digital organisms that are RAPP/1 compliant."
+- Proven live 2026-09-04, late: on the published browser page, dialing "orion" with a credential
+  that can read the private repository returned the private mainline and the AI answered a fact
+  only that file holds; without the credential, the public face and a refusal to share it.
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

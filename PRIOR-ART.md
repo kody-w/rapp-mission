@@ -79,6 +79,10 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
 - The file can point its AI at the public record as needed: the estate spine (rapp-map), the
   whole estate in one clone (rapp-monorepo), and the protocol itself (rapp-1). These are network
   faces too, read by link, never copied in.
+- This is also how we get out of "we have that too": it is good when a platform has it. RAPP only
+  layers over what a platform does not have, and steps aside where it does.
+- All of this happens virtually, in the AI's mind, unless the vbrainstem hatches into an
+  on-device local Brainstem because the person chose that.
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

@@ -59,6 +59,9 @@ Kody Wildfeuer states the direction in these terms, recorded the same day:
   (same routes, same request and reply shapes, same chat feel), driven entirely by the person's
   file, with one-tap export of that file. Its intelligence is the GitHub Copilot wire; nothing
   of ours runs on a server.
+- "We define this new virtual world. This is the new land grab: these ideas." The claim is on the
+  ideas, dated here, not on any runtime: one file a person owns, absorbed by any native AI,
+  memory and tools inside it, reversible by deletion, the same experience everywhere.
 - "RAPP is a state of mind more than anything."
 
 First working implementation, verified live on Claude Code 2.1.260 and GitHub Copilot CLI

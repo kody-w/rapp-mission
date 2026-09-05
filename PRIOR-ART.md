@@ -28,6 +28,11 @@ timestamped by Git and GitHub, and the tag `prior-art-2026-09-04` anchors the fi
   and must be able to, because the one file is the only thing that travels from computer to
   computer. A browser page with only the file is deep ocean by construction; running real code
   there is cheating. The regular Brainstem is the harbor boat that made the galleon possible.
+- Dropping anchor (Kody, 2026-09-05): a real Brainstem beside the virtual one is practice, so it
+  sails the open ocean better alone; setting sail again is the point. The one file, loaded into
+  any capable AI, is another dimension of the same Brainstem. A dimension that cannot hold the
+  shape was lost at sea: say so, export what it learned, stop; the file elsewhere is unharmed.
+  Frontier thinking, treated as such.
 
 ## 2026-09-04
 

@@ -3,6 +3,27 @@
 This file is a dated public record. The commit that adds it, and every commit after, is
 timestamped by Git and GitHub, and the tag `prior-art-2026-09-04` anchors the first statement.
 
+## 2026-09-05
+
+- The virtual Brainstem is a factory Brainstem run as a Python virtual machine in the AI's own
+  mind. The AI loads the real kernel, vendored byte for byte with per-file SHA-256 (brainstem.py,
+  local_storage.py, BasicAgent, ContextMemory, ManageMemory, HackerNews, LearnNew), executes it
+  statement by statement, and is also the model that kernel calls. The person's one file is the
+  machine's disk: the memory store, any file a tool writes, and the folder of agents. State
+  survives only by being written into the file. Recorded in kody-w/vbrainstem
+  (virtual-brainstem/SKILL.md sections 1a, 2g, 2h, 2i; Constitution XVII; PROFILE rev-2).
+- Freehand is the default and the end goal: nothing outside the AI is required. Real Python, the
+  drift harness, and a real kernel pulled beside the virtual one as an anchor are training
+  wheels, taken up in doubt and put down after. Drift is measured by running the code, never
+  estimated; the code wins.
+- "Plant this Brainstem" is exact: pull the Grail, map every memory line into the kernel's store
+  one to one (lossless both ways), point the soul at the file, prove a 1.0 score. Two bodies,
+  one file.
+- The ruling that names the whole thing (Kody, 2026-09-05): the Brainstem is the link between
+  the AI's mind and the person's mind. The person knows their Brainstem; the AI holds that same
+  Brainstem in its head, as a machine it runs; the shared model is the link. We are giving the
+  native AI a way of thinking that aligns with how the person already knows the Brainstem.
+
 ## 2026-09-04
 
 Kody Wildfeuer states the direction in these terms, recorded the same day:

@@ -23,6 +23,11 @@ timestamped by Git and GitHub, and the tag `prior-art-2026-09-04` anchors the fi
   the AI's mind and the person's mind. The person knows their Brainstem; the AI holds that same
   Brainstem in its head, as a machine it runs; the shared model is the link. We are giving the
   native AI a way of thinking that aligns with how the person already knows the Brainstem.
+- Deep ocean and in port (Kody, 2026-09-05): in port the real kernel is beside the AI with every
+  check at hand; on the deep ocean the AI sails on what it holds in its head and nothing else,
+  and must be able to, because the one file is the only thing that travels from computer to
+  computer. A browser page with only the file is deep ocean by construction; running real code
+  there is cheating. The regular Brainstem is the harbor boat that made the galleon possible.
 
 ## 2026-09-04
 
